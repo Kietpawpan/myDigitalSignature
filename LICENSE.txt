@@ -1,0 +1,4 @@
+Copyright (c) 2003 Monte Kietpawpan
+All rights reserved.
+
+No part of this repository may be reproduced, dirstributed, or transmitted in any form or by any means withiut prior written permission of the copyright holder.
